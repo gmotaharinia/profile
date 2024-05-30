@@ -1,4 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C600%3B0%2C700&display=swap");
+
+.plasmic_tokens {
+  --token-EXHavuxrx0vQ: #ffffff;
+  --plasmic-token-unnamed-style-token: var(--token-EXHavuxrx0vQ);
+  --token-3G3pAk33nWL9: #ffffff;
+  --plasmic-token-unnamed-style-token-2: var(--token-3G3pAk33nWL9);
+  --token-oAdai74E05rh: #e5f4e0;
+  --plasmic-token-unnamed-style-token-3: var(--token-oAdai74E05rh);
+  --token-GF9_FX3nMXvG: #d5e3ff;
+  --plasmic-token-unnamed-style-token-4: var(--token-GF9_FX3nMXvG);
+  --token-cGLJi1CcXkEx: #8d787833;
+  --plasmic-token-unnamed-style-token-5: var(--token-cGLJi1CcXkEx);
+}
 
 .plasmic_tokens {
   --plsmc-standard-width: 800px;
@@ -11,7 +24,7 @@
 }
 
 .plasmic_default_styles {
-  --mixin-2jNO-JX0CcZj_font-family: "Inter", sans-serif;
+  --mixin-2jNO-JX0CcZj_font-family: "Vazirmatn", sans-serif;
   --mixin-2jNO-JX0CcZj_font-size: 16px;
   --mixin-2jNO-JX0CcZj_font-weight: 400;
   --mixin-2jNO-JX0CcZj_font-style: normal;

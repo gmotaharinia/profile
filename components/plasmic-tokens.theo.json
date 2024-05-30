@@ -1,5 +1,56 @@
 {
-  "props": [],
+  "props": [
+    {
+      "name": "Unnamed Style Token",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "cfJKiRJZMeVZji2Dm2N994",
+        "id": "EXHavuxrx0vQ"
+      }
+    },
+    {
+      "name": "Unnamed Style Token 2",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "cfJKiRJZMeVZji2Dm2N994",
+        "id": "3G3pAk33nWL9"
+      }
+    },
+    {
+      "name": "Unnamed Style Token 3",
+      "type": "color",
+      "value": "#E5F4E0",
+      "category": "color",
+      "meta": {
+        "projectId": "cfJKiRJZMeVZji2Dm2N994",
+        "id": "oAdai74E05rh"
+      }
+    },
+    {
+      "name": "Unnamed Style Token 4",
+      "type": "color",
+      "value": "#D5E3FF",
+      "category": "color",
+      "meta": {
+        "projectId": "cfJKiRJZMeVZji2Dm2N994",
+        "id": "GF9_FX3nMXvG"
+      }
+    },
+    {
+      "name": "Unnamed Style Token 5",
+      "type": "color",
+      "value": "#8D787833",
+      "category": "color",
+      "meta": {
+        "projectId": "cfJKiRJZMeVZji2Dm2N994",
+        "id": "cGLJi1CcXkEx"
+      }
+    }
+  ],
   "global": {
     "meta": {
       "source": "plasmic.app"
